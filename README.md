@@ -1,4 +1,5 @@
-<i!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/24436745/index.html)
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -149,4 +150,3 @@ footer {
 
 </body>
 </html>
-ndex.html…]()
